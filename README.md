@@ -1,5 +1,5 @@
 <h1>DỰ ÁN</h1>
-<h2>Tên dự án: Website sàn thương mại điện tử</h2>
+<h2>TÊN DỰ ÁN: WEBSITE SÀN THƯƠNG MẠI ĐIỆN TỬ</h2>
 <h2>Mô tả dự án</h2>
 <p>Trong sự phát triển kinh tế hiện nay nhu cầu đời sống ngày càng nâng cao, vì thế nhu cầu mua hàng, trao đổi hàng hóa của con người ngày càng tăng về số lượng và chất lượng. 
 Từ đó, nhóm đã chú trọng tạo ra phần mềm sàn thương mại điện tử góp phần giúp người dùng có thể sử dụng tìm kiếm sản phẩm mà mình mong muốn một cách tiện lợi, mua hàng nhanh chóng không cần đến trực tiếp nơi bán hàng chỉ bằng cách nhấn chuột, tiết kiệm được thời gian cũng như chi phí đi lại, 
